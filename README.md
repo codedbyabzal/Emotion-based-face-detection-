@@ -70,5 +70,3 @@ python main.py
   <li>OpenCV – for webcam capture</li>
 </ul>
 
-<h2>📄 License</h2>
-<p>MIT License – use freely with attribution</p>
